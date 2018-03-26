@@ -1,6 +1,6 @@
 #Praktyczny kurs Javy
 
-To repozytorium zawiera kod do lekcji z cyklu praktyczny kurs Javy z użyciem frameworka Spring w ramach kursu [kobietydokodu.pl](http://kobietydokodu.pl).
+To repozytorium zawiera materiałykod do lekcji z cyklu praktyczny kurs Javy z użyciem frameworka Spring w ramach kursu [kobietydokodu.pl](http://kobietydokodu.pl).
 
 Kolejne lekcje przedstawiają po kolei etapy tworzenia prostej aplikacji webowej - od modelu i podstawowych obiektów po uruchomienie aplikacji na publicznie dostępnym serwerze.
 
