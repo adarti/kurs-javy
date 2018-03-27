@@ -53,6 +53,6 @@ public class Cat {
         int age = Period.between(birthDate, LocalDate.now()).getYears();
         return "My name is " + name + ". I'm " + age + " years old.\n" +
                 "I weight " + weight + " kg. " + "My keeper is Adarti.\n" +
-                "I was born in " + birthDate;
+                "My birth is " + birthDate;
     }
 }
